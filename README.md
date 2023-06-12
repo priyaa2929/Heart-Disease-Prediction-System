@@ -7,6 +7,7 @@ Proposed system consists of an intelligent system which works on different data 
 
 
 <br />
+
 ## Keywords
 
 Logistic Regression, Naïve Bayes, Support Vector Machine, K-Nearest Neighbors, Decision Tree, Random Forest
