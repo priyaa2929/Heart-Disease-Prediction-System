@@ -14,13 +14,14 @@ Logistic Regression, Naïve Bayes, Support Vector Machine, K-Nearest Neighbors, 
 <br />
 
 ## Dataflow Diagram
+
 <br />
 
 ![image](https://github.com/priyaa2929/Heart-Disease-Prediction-System/assets/130492957/90b20ce8-6326-46d1-b2d4-851c0a376409)
 
 
-
 <br />
+
 ## Dataset Description
 
 The heart data set originated from Kaggle website, which contains medical information of patients, including their
