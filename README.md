@@ -6,18 +6,18 @@ the world nearly 60% of the world’s population are now-a-days suffering from h
 Proposed system consists of an intelligent system which works on different data mining techniques and machine learning algorithms like, “Logistic Regression", " Naïve Bayes", "Support Vector Machine", "K-Nearest Neighbors", "Decision Tree", "Random Forest" to predict the heart disease based on some health parameters.
 
 
-
+<br />
 ## Keywords
 
 Logistic Regression, Naïve Bayes, Support Vector Machine, K-Nearest Neighbors, Decision Tree, Random Forest
-
+<br />
 
 ## Dataflow Diagram
 <br />
 ![image](https://github.com/priyaa2929/Heart-Disease-Prediction-System/assets/130492957/2dc32686-26c9-493f-83a2-b6f6364e37a3)
 <br />
 
-
+<br />
 ## Dataset Description
 
 The heart data set originated from Kaggle website, which contains medical information of patients, including their
@@ -35,7 +35,7 @@ The heart data set originated from Kaggle website, which contains medical inform
 12. number of major vessels (0-3) colored by flourosopy
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
-
+<br />
 ## Methodolgy
 
 In this section we shall learn about the various classifiers used in machine learning to predict heart disease. We shall also explain our proposed methodology to improve the accuracy. The different methods used are defined below. The output is the accuracy metrics of the machine learning models. 
@@ -52,7 +52,7 @@ We performed exploratory data analysis (EDA) on the dataset to gain insights int
 ![image](https://github.com/priyaa2929/Heart-Disease-Prediction-System/assets/130492957/60138479-1a41-4439-b9d6-72c1ef4dd03d)
 <br />
 ➔ There is no null values in dataset.
-
+<br />
 
 #Correlation Matrix:
 <br />
@@ -155,6 +155,7 @@ The accuracy score achieved using Decision Tree is: 90.16 %
 
 This shows the accuracy values for all six machine learning algorithms.
 It shows that Random forest algorithm gives the best accuracy with 90.16% accuracy.
+<br />
 ## Result and Future Scope
 
 Based on the observations, it seems that the Random Forest algorithm is the best performing model with an accuracy of 90.16%. Logistic Regression and Naive Bayes have similar performance with an accuracy of 85.25%, followed by Support Vector Machine and Decision Tree with 81.97%, and finally K-Nearest Neighbors with 67.21%.
