@@ -10,6 +10,7 @@ Proposed system consists of an intelligent system which works on different data 
 ## Keywords
 
 Logistic Regression, Naïve Bayes, Support Vector Machine, K-Nearest Neighbors, Decision Tree, Random Forest
+
 <br />
 
 ## Dataflow Diagram
@@ -156,6 +157,7 @@ The accuracy score achieved using Decision Tree is: 90.16 %
 
 This shows the accuracy values for all six machine learning algorithms.
 It shows that Random forest algorithm gives the best accuracy with 90.16% accuracy.
+<br />
 <br />
 ## Result and Future Scope
 
