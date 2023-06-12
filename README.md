@@ -12,6 +12,7 @@ KEYWORDS - Users, KNN, Probability.
 
 
 
+![image](https://github.com/priyaa2929/Heart-Disease-Prediction-System/assets/130492957/69d0def0-31d1-4f8d-80ff-9d9a905756d5)
 
 Dataset Description
 The heart data set originated from Kaggle website, which contains medical information of patients, including their
