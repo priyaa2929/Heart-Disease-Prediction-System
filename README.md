@@ -1,5 +1,5 @@
 
-# Heart Disease Prediction System
+# Heart Disease Prediction
 
 The aim of this project is to implement the heart disease prediction application. Many people all over
 the world nearly 60% of the world’s population are now-a-days suffering from heart disease. 
