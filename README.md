@@ -5,7 +5,6 @@ The aim of this project is to implement the heart disease prediction application
 the world nearly 60% of the world’s population are now-a-days suffering from heart disease. 
 Proposed system consists of an intelligent system which works on different data mining techniques and machine learning algorithms like, “Logistic Regression", " Naïve Bayes", "Support Vector Machine", "K-Nearest Neighbors", "Decision Tree", "Random Forest" to predict the heart disease based on some health parameters.
 
-
 <br />
 
 ## Keywords
@@ -37,6 +36,7 @@ The heart data set originated from Kaggle website, which contains medical inform
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
 <br />
+
 ## Methodolgy
 
 In this section we shall learn about the various classifiers used in machine learning to predict heart disease. We shall also explain our proposed methodology to improve the accuracy. The different methods used are defined below. The output is the accuracy metrics of the machine learning models. 
