@@ -15,7 +15,9 @@ Logistic Regression, Naïve Bayes, Support Vector Machine, K-Nearest Neighbors, 
 
 ## Dataflow Diagram
 <br />
-![image](https://github.com/priyaa2929/Heart-Disease-Prediction-System/assets/130492957/2dc32686-26c9-493f-83a2-b6f6364e37a3)
+
+![image](https://github.com/priyaa2929/Heart-Disease-Prediction-System/assets/130492957/90b20ce8-6326-46d1-b2d4-851c0a376409)
+
 
 
 <br />
